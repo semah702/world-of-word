@@ -40,3 +40,6 @@ Merge bir çatalda (Branch) ta yapılan bir değişikliğin diğer şubelerde de
 
 ### Conflict
 Birkaç farklı Branch’ta yapılan çalışmalar paketlenip gönderilirken bazen iki dosyanın birbirleriyle çelişmesiyle sonuçlanabilir. Bu olaya conflict denir.
+
+## kaynakça
+[github nedir?](https://www.hosting.com.tr/blog/github-nedir/)
